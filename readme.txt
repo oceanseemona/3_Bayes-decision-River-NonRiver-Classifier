@@ -1,5 +1,4 @@
-
-Assignment-3 : Practical Implementation on Baye’s Decision Rule
+Practical Implementation on Baye’s Decision Rule
 
 OBJECTIVE:
 
@@ -44,8 +43,3 @@ Case 1 : River class (Prior Prob: ) = 0.3 , Nonriver class(Prior Prob) = 0.7
 Case 2 : River class (Prior Prob: ) = 0.7 , Nonriver class(Prior Prob) = 0.3
 Case 3 : River class (Prior Prob: ) = 0.5 , Nonriver class(Prior Prob) = 0.5
 
-Submitted by- A. Ocean Seemona
-M.tech (2nd sem) IS
-ML Lab Assignment- 3
-Email- 220CS2265@nitrkl.ac.in
-Rollno- 220CS2265

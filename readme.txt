@@ -39,6 +39,7 @@ If Python is not installed yet, Anaconda distribution of Python can also be used
 OUTPUT:
 
 Three ouput images are shown for three cases:
+
 Case 1 : River class (Prior Prob: ) = 0.3 , Nonriver class(Prior Prob) = 0.7
 Case 2 : River class (Prior Prob: ) = 0.7 , Nonriver class(Prior Prob) = 0.3
 Case 3 : River class (Prior Prob: ) = 0.5 , Nonriver class(Prior Prob) = 0.5
